@@ -1,0 +1,1 @@
+this project left me stuck for a few hours, I'm a beginner and it was difficult for me to do the after and before of the NFT image, I did it calmly and paying attention to the css tags, class names in the HTML and a quick and easy way to understand the code and variables, I looked for help on the internet for some doubts I had but I managed to do it almost without help
